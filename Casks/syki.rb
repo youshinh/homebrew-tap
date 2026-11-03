@@ -1,6 +1,6 @@
 cask "syki" do
   version "1.0.1"
-  sha256 "a516a6a8df770f853e880a6fed9d0333381c9bf4cb6ca209af6dd8fae651b94f"
+  sha256 "b9578e128b0300c0bb0a3f794eef0c1dae4efe4a29a0ed219819b4f0b84b5d7d"
 
   url "https://github.com/youshinh/syki-sok/releases/download/v#{version}/syki-macos.zip"
   name "syki::sok"
